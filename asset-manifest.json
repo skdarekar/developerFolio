@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.20383389.chunk.css",
-    "main.js": "/static/js/main.19d19a8f.chunk.js",
-    "main.js.map": "/static/js/main.19d19a8f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.38fdd991.js",
-    "runtime-main.js.map": "/static/js/runtime-main.38fdd991.js.map",
+    "main.js": "/static/js/main.23afa028.chunk.js",
+    "main.js.map": "/static/js/main.23afa028.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb4dcb4d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb4dcb4d.js.map",
     "static/js/2.7ebeafcc.chunk.js": "/static/js/2.7ebeafcc.chunk.js",
     "static/js/2.7ebeafcc.chunk.js.map": "/static/js/2.7ebeafcc.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
-    "static/js/3.c513d19a.chunk.js": "/static/js/3.c513d19a.chunk.js",
-    "static/js/3.c513d19a.chunk.js.map": "/static/js/3.c513d19a.chunk.js.map",
+    "static/js/3.a17a7c05.chunk.js": "/static/js/3.a17a7c05.chunk.js",
+    "static/js/3.a17a7c05.chunk.js.map": "/static/js/3.a17a7c05.chunk.js.map",
     "static/css/4.e91a4b36.chunk.css": "/static/css/4.e91a4b36.chunk.css",
     "static/js/4.ff6424b7.chunk.js": "/static/js/4.ff6424b7.chunk.js",
     "static/js/4.ff6424b7.chunk.js.map": "/static/js/4.ff6424b7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a63d38c5e79a48fa822980507879201d.js": "/precache-manifest.a63d38c5e79a48fa822980507879201d.js",
+    "precache-manifest.97820a161c0d4c0e348f7c9353504985.js": "/precache-manifest.97820a161c0d4c0e348f7c9353504985.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
@@ -26,19 +26,19 @@
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.e79c6392.webp",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
-    "static/media/msbte_logo.jpg": "/static/media/msbte_logo.90d53425.jpg",
+    "static/media/msbte_logo.jpg": "/static/media/msbte_logo.8ebc7f27.jpg",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
     "static/media/pwaLogo.webp": "/static/media/pwaLogo.ee62cb58.webp",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
-    "static/media/sagar_profile.jpg": "/static/media/sagar_profile.d63afc0f.jpg",
+    "static/media/sagar_profile.jpg": "/static/media/sagar_profile.ffc89286.jpg",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/sppu_logo.jpg": "/static/media/sppu_logo.30c5f211.jpg",
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.38fdd991.js",
+    "static/js/runtime-main.fb4dcb4d.js",
     "static/js/2.7ebeafcc.chunk.js",
     "static/css/main.20383389.chunk.css",
-    "static/js/main.19d19a8f.chunk.js"
+    "static/js/main.23afa028.chunk.js"
   ]
 }
